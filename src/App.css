@@ -1,0 +1,43 @@
+
+.user-list-container {
+  background-color: #003366;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
+  width: 80%; 
+  margin: 20px auto; 
+}
+
+.user-list-container h1 {
+  text-align: center; 
+  color: rgb(194, 24, 24);
+}
+
+
+.user-list-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-list-container li {
+  background-color: #add8e6; 
+  margin: 10px 0; 
+  border-radius: 5px; 
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.user-list-container li h2 {
+  margin: 0;
+  font-size: 1.5em;
+  color: #007BFF; 
+}
+
+.user-list-container li p {
+  margin: 5px 0;
+  color: #555; 
+}
+
+.user-list-container li p strong {
+  color: #333; 
+}
+
